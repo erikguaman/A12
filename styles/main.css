@@ -109,7 +109,7 @@ article{
 
 article img{
     float: right;
-    margin: .5em 0 1em 1em;
+    margin: .5em 0 0em 1em;
     border: 1px solid black;
 }
 
