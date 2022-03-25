@@ -114,6 +114,7 @@ article{
 article img{
     float: right;
     margin: .5em 0 1em 1em;
+    border: 1px solid black;
 }
 
 article h2{
